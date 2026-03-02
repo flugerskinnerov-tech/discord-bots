@@ -1,0 +1,32 @@
+{
+  "1469609808658305130": {
+    "private_channels": {},
+    "temp_channels": {},
+    "config": {
+      "max_channels": 50,
+      "auto_delete_empty": true,
+      "default_limit": 0,
+      "category_name": "🔒 Приватные каналы"
+    }
+  },
+  "1472225157337845802": {
+    "private_channels": {},
+    "temp_channels": {},
+    "config": {
+      "max_channels": 50,
+      "auto_delete_empty": true,
+      "default_limit": 0,
+      "category_name": "🔒 Приватные каналы"
+    }
+  },
+  "1474631428258926642": {
+    "private_channels": {},
+    "temp_channels": {},
+    "config": {
+      "max_channels": 50,
+      "auto_delete_empty": true,
+      "default_limit": 0,
+      "category_name": "🔒 Приватные каналы"
+    }
+  }
+}

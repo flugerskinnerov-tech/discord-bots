@@ -1,0 +1,11 @@
+{
+  "1469609808658305130": {
+    "clans": {},
+    "config": {
+      "max_clans": 10,
+      "max_members_per_clan": 50,
+      "clan_leader_role": "Clan Leader",
+      "clan_member_role": "Clan Member"
+    }
+  }
+}
